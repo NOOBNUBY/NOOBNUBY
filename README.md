@@ -1,5 +1,5 @@
 # AboutMe
-##Hello my name is NOOBNUBY 👋
+## Hello my name is NOOBNUBY 👋
 
 ## Use
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
