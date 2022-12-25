@@ -3,7 +3,7 @@
 <div align="center">
   안녕하세요 코딩 pro 되고픈 늅늅이라합니다. 👋
 
-  ##Stack
+##Stack
 
 <div>
   <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
