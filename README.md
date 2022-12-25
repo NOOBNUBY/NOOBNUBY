@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
   <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
   <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
-<div>
+</div>
 </div>
 ![NOOBNUBY's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBNUBY&show_icons=true&theme=algolia)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBNUBY&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
