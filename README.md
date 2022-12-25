@@ -1,5 +1,5 @@
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?        type=waving&color=60:B8E1FF,40:B4D4EE&height=350&section=header&text="Hello,%20World!"&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20NOOBNUBY's%20GitHub%20Profile&descAlignY=59&descAlign=59&descSize=25&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?          type=waving&color=60:B8E1FF,40:B4D4EE&height=350&section=header&text="Hello,%20World!"&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20NOOBNUBY's%20GitHub%20Profile&descAlignY=59&descAlign=59&descSize=25&fontColor=000000)
 
   안녕하세요 코딩 pro 되고픈 늅늅이라합니다. 👋
 
